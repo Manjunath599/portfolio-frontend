@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-frontend/static/css/main.9058df28.css",
+    "main.js": "/portfolio-frontend/static/js/main.5c1c37ad.js",
+    "static/js/787.abb68d17.chunk.js": "/portfolio-frontend/static/js/787.abb68d17.chunk.js",
+    "static/media/ecommerce.png": "/portfolio-frontend/static/media/ecommerce.57068c8aa40268062cc4.png",
+    "static/media/easy-banking.png": "/portfolio-frontend/static/media/easy-banking.6d32d360691005862021.png",
+    "static/media/card-details.png": "/portfolio-frontend/static/media/card-details.1c2f659c940a4953ae44.png",
+    "static/media/manage-landing.png": "/portfolio-frontend/static/media/manage-landing.94272fb6bab3c4d8c4b6.png",
+    "static/media/avatar.png": "/portfolio-frontend/static/media/avatar.5d66ff145298d11e0ef2.png",
+    "index.html": "/portfolio-frontend/index.html",
+    "static/media/icon-menu-close.svg": "/portfolio-frontend/static/media/icon-menu-close.ca20d86e8364ad748c947025ef771994.svg",
+    "static/media/icon-menu.svg": "/portfolio-frontend/static/media/icon-menu.f967d833be0e64002eeaadab0bae9ac5.svg",
+    "main.9058df28.css.map": "/portfolio-frontend/static/css/main.9058df28.css.map",
+    "main.5c1c37ad.js.map": "/portfolio-frontend/static/js/main.5c1c37ad.js.map",
+    "787.abb68d17.chunk.js.map": "/portfolio-frontend/static/js/787.abb68d17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9058df28.css",
+    "static/js/main.5c1c37ad.js"
+  ]
+}
